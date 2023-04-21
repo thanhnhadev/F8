@@ -1,0 +1,17 @@
+/* Reponsive */
+/*PC:> 1024px
+    Tablet:>=740px & <1024px
+    Mobile:<740px
+*/
+/* Pc  */
+@media (min-width:1024px){
+
+}
+/* Tablet  */
+@media (min-width:740px)and(max-width:1023px){
+
+}
+/* Mobile  */
+@media (min-width:740px){
+    
+}
